@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.cngump.com/sitemap.xml 
+Sitemap: http://cngump.github.com/sitemap.xml 
