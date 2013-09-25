@@ -8,4 +8,6 @@ categories: [cngump,blog]
 
 是新的开始吗？ 我想是的。
 
+启用Octopress博客  [http://www.cngump.com](http://www.cngump.com)
+
 旧的WordPress的Blog依然存在, 不过不更新了。  [http://blog1.cngump.com](http://blog1.cngump.com)

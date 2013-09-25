@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.cngump.com
-title: 老甘 Blog
-subtitle: A blogging framework for hackers.
+url: http://cngump.github.com
+title: 老甘的可读区
+subtitle: 老甘的可读区@github
 author: 老甘
 simple_search: http://google.com/search
 description:
