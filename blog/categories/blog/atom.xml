@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: blog | 老甘的博客]]></title>
+  <title><![CDATA[Category: blog | 老甘的可读区]]></title>
   <link href="http://cngump.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://cngump.github.com/"/>
-  <updated>2013-02-18T09:33:38+08:00</updated>
+  <updated>2013-09-29T23:22:16+08:00</updated>
   <id>http://cngump.github.com/</id>
   <author>
     <name><![CDATA[老甘]]></name>
@@ -19,6 +19,8 @@
     <updated>2012-03-04T00:44:00+08:00</updated>
     <id>http://cngump.github.com/blog/2012/03/04/qi-yong-octopressbo-ke</id>
     <content type="html"><![CDATA[<p>是新的开始吗？ 我想是的。</p>
+
+<p>启用Octopress博客  <a href="http://www.cngump.com">http://www.cngump.com</a></p>
 
 <p>旧的WordPress的Blog依然存在, 不过不更新了。  <a href="http://blog1.cngump.com">http://blog1.cngump.com</a></p>
 ]]></content>
